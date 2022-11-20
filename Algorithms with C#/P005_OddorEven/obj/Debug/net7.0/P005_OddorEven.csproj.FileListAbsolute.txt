@@ -1,0 +1,15 @@
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\bin\Debug\net7.0\P005_OddorEven.exe
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\bin\Debug\net7.0\P005_OddorEven.deps.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\bin\Debug\net7.0\P005_OddorEven.runtimeconfig.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\bin\Debug\net7.0\P005_OddorEven.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\bin\Debug\net7.0\P005_OddorEven.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\obj\Debug\net7.0\P005_OddorEven.csproj.AssemblyReference.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\obj\Debug\net7.0\P005_OddorEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\obj\Debug\net7.0\P005_OddorEven.AssemblyInfoInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\obj\Debug\net7.0\P005_OddorEven.AssemblyInfo.cs
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\obj\Debug\net7.0\P005_OddorEven.csproj.CoreCompileInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\obj\Debug\net7.0\P005_OddorEven.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\obj\Debug\net7.0\refint\P005_OddorEven.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\obj\Debug\net7.0\P005_OddorEven.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\obj\Debug\net7.0\P005_OddorEven.genruntimeconfig.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P005_OddorEven\obj\Debug\net7.0\ref\P005_OddorEven.dll

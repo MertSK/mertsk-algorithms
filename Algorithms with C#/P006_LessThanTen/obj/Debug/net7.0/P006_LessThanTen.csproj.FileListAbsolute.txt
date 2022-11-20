@@ -1,0 +1,15 @@
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\bin\Debug\net7.0\P006_LessThanTen.exe
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\bin\Debug\net7.0\P006_LessThanTen.deps.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\bin\Debug\net7.0\P006_LessThanTen.runtimeconfig.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\bin\Debug\net7.0\P006_LessThanTen.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\bin\Debug\net7.0\P006_LessThanTen.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\obj\Debug\net7.0\P006_LessThanTen.csproj.AssemblyReference.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\obj\Debug\net7.0\P006_LessThanTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\obj\Debug\net7.0\P006_LessThanTen.AssemblyInfoInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\obj\Debug\net7.0\P006_LessThanTen.AssemblyInfo.cs
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\obj\Debug\net7.0\P006_LessThanTen.csproj.CoreCompileInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\obj\Debug\net7.0\P006_LessThanTen.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\obj\Debug\net7.0\refint\P006_LessThanTen.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\obj\Debug\net7.0\P006_LessThanTen.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\obj\Debug\net7.0\P006_LessThanTen.genruntimeconfig.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P006_LessThanTen\obj\Debug\net7.0\ref\P006_LessThanTen.dll

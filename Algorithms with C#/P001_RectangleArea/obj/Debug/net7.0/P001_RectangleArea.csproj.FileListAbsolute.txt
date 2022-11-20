@@ -1,0 +1,15 @@
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\bin\Debug\net7.0\P001_RectangleArea.exe
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\bin\Debug\net7.0\P001_RectangleArea.deps.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\bin\Debug\net7.0\P001_RectangleArea.runtimeconfig.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\bin\Debug\net7.0\P001_RectangleArea.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\bin\Debug\net7.0\P001_RectangleArea.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\obj\Debug\net7.0\P001_RectangleArea.csproj.AssemblyReference.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\obj\Debug\net7.0\P001_RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\obj\Debug\net7.0\P001_RectangleArea.AssemblyInfoInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\obj\Debug\net7.0\P001_RectangleArea.AssemblyInfo.cs
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\obj\Debug\net7.0\P001_RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\obj\Debug\net7.0\P001_RectangleArea.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\obj\Debug\net7.0\refint\P001_RectangleArea.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\obj\Debug\net7.0\P001_RectangleArea.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\obj\Debug\net7.0\P001_RectangleArea.genruntimeconfig.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P001_RectangleArea\obj\Debug\net7.0\ref\P001_RectangleArea.dll

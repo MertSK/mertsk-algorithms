@@ -1,0 +1,15 @@
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\bin\Debug\net7.0\P004_CompareTwoValues.exe
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\bin\Debug\net7.0\P004_CompareTwoValues.deps.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\bin\Debug\net7.0\P004_CompareTwoValues.runtimeconfig.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\bin\Debug\net7.0\P004_CompareTwoValues.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\bin\Debug\net7.0\P004_CompareTwoValues.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\obj\Debug\net7.0\P004_CompareTwoValues.csproj.AssemblyReference.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\obj\Debug\net7.0\P004_CompareTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\obj\Debug\net7.0\P004_CompareTwoValues.AssemblyInfoInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\obj\Debug\net7.0\P004_CompareTwoValues.AssemblyInfo.cs
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\obj\Debug\net7.0\P004_CompareTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\obj\Debug\net7.0\P004_CompareTwoValues.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\obj\Debug\net7.0\refint\P004_CompareTwoValues.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\obj\Debug\net7.0\P004_CompareTwoValues.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\obj\Debug\net7.0\P004_CompareTwoValues.genruntimeconfig.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P004_CompareTwoValues\obj\Debug\net7.0\ref\P004_CompareTwoValues.dll

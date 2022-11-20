@@ -1,0 +1,15 @@
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\obj\Debug\net7.0\P002_CylinderArea.csproj.AssemblyReference.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\obj\Debug\net7.0\P002_CylinderArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\obj\Debug\net7.0\P002_CylinderArea.AssemblyInfoInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\obj\Debug\net7.0\P002_CylinderArea.AssemblyInfo.cs
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\obj\Debug\net7.0\P002_CylinderArea.csproj.CoreCompileInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\bin\Debug\net7.0\P002_CylinderArea.exe
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\bin\Debug\net7.0\P002_CylinderArea.deps.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\bin\Debug\net7.0\P002_CylinderArea.runtimeconfig.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\bin\Debug\net7.0\P002_CylinderArea.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\bin\Debug\net7.0\P002_CylinderArea.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\obj\Debug\net7.0\P002_CylinderArea.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\obj\Debug\net7.0\refint\P002_CylinderArea.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\obj\Debug\net7.0\P002_CylinderArea.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\obj\Debug\net7.0\P002_CylinderArea.genruntimeconfig.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P002_CylinderArea\obj\Debug\net7.0\ref\P002_CylinderArea.dll

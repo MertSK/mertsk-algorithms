@@ -1,0 +1,15 @@
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\bin\Debug\net7.0\P000_HelloWorld.exe
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\bin\Debug\net7.0\P000_HelloWorld.deps.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\bin\Debug\net7.0\P000_HelloWorld.runtimeconfig.json
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\bin\Debug\net7.0\P000_HelloWorld.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\bin\Debug\net7.0\P000_HelloWorld.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\obj\Debug\net7.0\P000_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\obj\Debug\net7.0\P000_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\obj\Debug\net7.0\P000_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\obj\Debug\net7.0\P000_HelloWorld.AssemblyInfo.cs
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\obj\Debug\net7.0\P000_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\obj\Debug\net7.0\P000_HelloWorld.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\obj\Debug\net7.0\refint\P000_HelloWorld.dll
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\obj\Debug\net7.0\P000_HelloWorld.pdb
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\obj\Debug\net7.0\P000_HelloWorld.genruntimeconfig.cache
+C:\Users\MertSK\Desktop\Yazılım\Algorithms\P000_HelloWorld\obj\Debug\net7.0\ref\P000_HelloWorld.dll
