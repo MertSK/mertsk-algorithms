@@ -1,0 +1,15 @@
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\obj\Debug\net7.0\P008_SumofNumbers.csproj.AssemblyReference.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\obj\Debug\net7.0\P008_SumofNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\obj\Debug\net7.0\P008_SumofNumbers.AssemblyInfoInputs.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\obj\Debug\net7.0\P008_SumofNumbers.AssemblyInfo.cs
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\obj\Debug\net7.0\P008_SumofNumbers.csproj.CoreCompileInputs.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\bin\Debug\net7.0\P008_SumofNumbers.exe
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\bin\Debug\net7.0\P008_SumofNumbers.deps.json
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\bin\Debug\net7.0\P008_SumofNumbers.runtimeconfig.json
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\bin\Debug\net7.0\P008_SumofNumbers.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\bin\Debug\net7.0\P008_SumofNumbers.pdb
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\obj\Debug\net7.0\P008_SumofNumbers.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\obj\Debug\net7.0\refint\P008_SumofNumbers.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\obj\Debug\net7.0\P008_SumofNumbers.pdb
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\obj\Debug\net7.0\P008_SumofNumbers.genruntimeconfig.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P008_SumofNumbers\obj\Debug\net7.0\ref\P008_SumofNumbers.dll
