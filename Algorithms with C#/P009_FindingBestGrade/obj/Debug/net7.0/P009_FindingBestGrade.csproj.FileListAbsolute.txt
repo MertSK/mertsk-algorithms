@@ -1,0 +1,15 @@
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\bin\Debug\net7.0\P009_FindingBestGrade.exe
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\bin\Debug\net7.0\P009_FindingBestGrade.deps.json
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\bin\Debug\net7.0\P009_FindingBestGrade.runtimeconfig.json
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\bin\Debug\net7.0\P009_FindingBestGrade.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\bin\Debug\net7.0\P009_FindingBestGrade.pdb
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\obj\Debug\net7.0\P009_FindingBestGrade.csproj.AssemblyReference.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\obj\Debug\net7.0\P009_FindingBestGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\obj\Debug\net7.0\P009_FindingBestGrade.AssemblyInfoInputs.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\obj\Debug\net7.0\P009_FindingBestGrade.AssemblyInfo.cs
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\obj\Debug\net7.0\P009_FindingBestGrade.csproj.CoreCompileInputs.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\obj\Debug\net7.0\P009_FindingBestGrade.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\obj\Debug\net7.0\refint\P009_FindingBestGrade.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\obj\Debug\net7.0\P009_FindingBestGrade.pdb
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\obj\Debug\net7.0\P009_FindingBestGrade.genruntimeconfig.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P009_FindingBestGrade\obj\Debug\net7.0\ref\P009_FindingBestGrade.dll

@@ -1,0 +1,15 @@
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\bin\Debug\net7.0\P011_FindingBestGrade V3.exe
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\bin\Debug\net7.0\P011_FindingBestGrade V3.deps.json
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\bin\Debug\net7.0\P011_FindingBestGrade V3.runtimeconfig.json
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\bin\Debug\net7.0\P011_FindingBestGrade V3.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\bin\Debug\net7.0\P011_FindingBestGrade V3.pdb
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\obj\Debug\net7.0\P011_FindingBestGrade V3.csproj.AssemblyReference.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\obj\Debug\net7.0\P011_FindingBestGrade V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\obj\Debug\net7.0\P011_FindingBestGrade V3.AssemblyInfoInputs.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\obj\Debug\net7.0\P011_FindingBestGrade V3.AssemblyInfo.cs
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\obj\Debug\net7.0\P011_FindingBestGrade V3.csproj.CoreCompileInputs.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\obj\Debug\net7.0\P011_FindingBestGrade V3.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\obj\Debug\net7.0\refint\P011_FindingBestGrade V3.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\obj\Debug\net7.0\P011_FindingBestGrade V3.pdb
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\obj\Debug\net7.0\P011_FindingBestGrade V3.genruntimeconfig.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P011_FindingBestGrade V3\obj\Debug\net7.0\ref\P011_FindingBestGrade V3.dll

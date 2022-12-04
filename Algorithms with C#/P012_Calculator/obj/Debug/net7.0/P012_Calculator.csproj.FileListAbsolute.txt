@@ -1,0 +1,15 @@
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\bin\Debug\net7.0\P012_Calculator.exe
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\bin\Debug\net7.0\P012_Calculator.deps.json
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\bin\Debug\net7.0\P012_Calculator.runtimeconfig.json
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\bin\Debug\net7.0\P012_Calculator.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\bin\Debug\net7.0\P012_Calculator.pdb
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\obj\Debug\net7.0\P012_Calculator.csproj.AssemblyReference.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\obj\Debug\net7.0\P012_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\obj\Debug\net7.0\P012_Calculator.AssemblyInfoInputs.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\obj\Debug\net7.0\P012_Calculator.AssemblyInfo.cs
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\obj\Debug\net7.0\P012_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\obj\Debug\net7.0\P012_Calculator.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\obj\Debug\net7.0\refint\P012_Calculator.dll
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\obj\Debug\net7.0\P012_Calculator.pdb
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\obj\Debug\net7.0\P012_Calculator.genruntimeconfig.cache
+C:\Users\MertSK\Desktop\Nane\Algorithms\Algorithms with C#\P012_Calculator\obj\Debug\net7.0\ref\P012_Calculator.dll
